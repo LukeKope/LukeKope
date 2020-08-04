@@ -9,11 +9,18 @@ Here are some ideas to get you started:
 
 
 ### Skills
+1. ReactJS
+2. HTML/CSS
+3. NodeJS
+4. RESTful API's
+5. Firebase NoSQL Database
+6. Adobe Creative Suite (Illustrator, Photoshop, Premiere, After Effects, Animate)
 
 
 
 
-- 📚 I’m currently learning Flutter and Dart
+
+- 📚 I’m currently learning Flutter, Dart, Angular, and Postgres!
 
 
 
