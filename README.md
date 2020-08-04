@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 8. Firebase NoSQL Database
 9. Adobe Creative Suite (Illustrator, Photoshop, Premiere, After Effects, Animate)
 ---
-#### What I'm working on
+### What I'm working on
 📚 I’m currently learning Flutter, Dart, Angular, and Postgres!
-
-
-#### Links
+---
+### Links
 [👔 LinkedIn](https://www.linkedin.com/in/luke-koppenheffer/)  
 [🎨 Behance](https://www.behance.net/luke_koppenheffer)  
 [🏀 Dribbble](https://dribbble.com/luke_koppenheffer)
