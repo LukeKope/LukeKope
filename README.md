@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 #### Links
-[LinkedIn](https://www.linkedin.com/in/luke-koppenheffer/)  
-[Behance](https://www.behance.net/luke_koppenheffer)  
-[Dribbble](https://dribbble.com/luke_koppenheffer)
+- [👔 LinkedIn](https://www.linkedin.com/in/luke-koppenheffer/)
+- [🎨 Behance](https://www.behance.net/luke_koppenheffer)
+- [🏀 Dribbble](https://dribbble.com/luke_koppenheffer)
 
 
