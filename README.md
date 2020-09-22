@@ -9,14 +9,15 @@ Here are some ideas to get you started:
 
 ### Skills
 1. ReactJS
-2. JavaScript
-3. HTML/CSS
-4. NodeJS
-5. RESTful API's
-6. Heroku
-7. Netlify
-8. Firebase NoSQL Database
-9. Adobe Creative Suite (Illustrator, Photoshop, Premiere, After Effects, Animate)
+2. Angular
+3. JavaScript
+4. HTML/CSS
+5. NodeJS
+6. RESTful API's
+7. Heroku
+8. Netlify
+9. Firebase NoSQL Database
+10. Adobe Creative Suite (Illustrator, Photoshop, Premiere, After Effects, Animate)
 ---
 
 ### What I'm working on  
