@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 
 ### What I'm working on  
-📚 I’m currently learning Flutter, Dart, Angular, and Postgres!  
+📚 I’m currently learning Flutter, Dart, and Postgres!  
 
 ---
 ### Links
