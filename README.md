@@ -4,14 +4,14 @@
 Here are some ideas to get you started:
 -->
 
-# Hello! My name is Luke Koppenheffer. I'm a Full-Stack developer and Junior studying IDM and CS at NYU Tandon
+# Hello! My name is Luke Koppenheffer. I'm a Frontend developer at [Cortex-Vertical](https://www.cortex-vertical.com/) and Junior studying IDM and CS at NYU Tandon
 ## Feel free to check out [my website](https://lukekoppenheffer.myportfolio.com/) to view my projects
 
 ### Skills
 1. ReactJS
 2. Angular
-3. JavaScript
-4. HTML/CSS
+3. JavaScript/TypeScript
+4. HTML/CSS/SCSS
 5. NodeJS
 6. RESTful API's
 7. Heroku
