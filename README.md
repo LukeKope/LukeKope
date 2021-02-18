@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 ## Feel free to check out [my website](https://lukekoppenheffer.myportfolio.com/) to view my projects
 
 ### Skills
-1. ReactJS
-2. Angular
+1. Angular
+2. ReactJS
 3. JavaScript/TypeScript
 4. HTML/CSS/SCSS
 5. NodeJS
@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 7. Heroku
 8. Netlify
 9. Firebase NoSQL Database
-10. Adobe Creative Suite (Illustrator, Photoshop, Premiere, After Effects, Animate)
----
-
-### What I'm working on  
-📚 I’m currently learning Flutter, Dart, and Postgres!  
+10. PostgresSQL
+11. Adobe Creative Suite (Illustrator, Photoshop, Premiere, After Effects, Animate)
 
 ---
 ### Links
