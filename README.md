@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello! My name is Luke Koppenheffer. I'm a Frontend developer at [Cortex-Vertical](https://www.cortex-vertical.com/) and Junior studying IDM and CS at NYU Tandon
-## Feel free to check out [my website](https://lukekoppenheffer.myportfolio.com/) to view my projects
+## Feel free to check out [my website](http://lukekoppenheffer.netlify.app/) to view my projects
 
 ### Skills
 1. Angular
